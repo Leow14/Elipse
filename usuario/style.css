@@ -299,6 +299,10 @@ body{
 
 .pontos_gastos{
   font-size: 40px;
+  background-image: linear-gradient(to bottom, #e3610b, #ffaa00);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .pontos_num{
